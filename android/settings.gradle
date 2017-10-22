@@ -1,0 +1,3 @@
+rootProject.name = 'RnFileSearch'
+
+include ':app'
